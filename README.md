@@ -63,7 +63,7 @@ The project includes tools for comparing the performance of different algorithms
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI-Maze-Solver.git
+git clone https://github.com/nabobery/MAZE-SOLVER-USING-AI.git
 ```
 2. Install the required dependencies:
 ```bash
